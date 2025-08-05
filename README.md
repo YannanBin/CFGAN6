@@ -5,7 +5,7 @@
 
 CFGAN is a deep learning framework designed to generate broad-spectrum antimicrobial peptides (AMPs) with high efficiency and functional specificity. By incorporating a Conditional Generative Adversarial Network (CGAN) with a reinforcement feedback loop mechanism and Brownian Motion Controller (BMC), CFGAN aims to improve peptide broad-spectrum, optimize antimicrobial activity, and ensure stability during the training process.
 
-![image-20250728205458439](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250728205458439.png)
+<img width="1132" height="917" alt="image" src="https://github.com/user-attachments/assets/f378e1c4-7ea5-436f-a6fa-3c1c1de6ea7b" />
 
 This repository includes the necessary scripts and tools for training the model, evaluating its performance, and generating antimicrobial peptides.	
 
