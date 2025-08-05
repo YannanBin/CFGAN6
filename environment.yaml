@@ -1,0 +1,17 @@
+name: CFGAN
+channels:
+dependencies:
+  - python=3.7
+  - pip
+  - biopython
+  - black
+  - isort
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - tensorflow-gpu=2.2.0
+  - pip:
+      - git+https://gitlab.com/vail-uvm/vailtools.git@develop
+      - shifterator
